@@ -17,9 +17,9 @@ public class NetBeansProject {
     public static void main(String[] args) {
         System.out.println("Hola");
         if (true) {
-            System.out.println("Mierda");
+            System.out.println("Pipi");
         } else {
-            System.out.println("Caca");
+            System.out.println("Popo");
         }
     }
     
