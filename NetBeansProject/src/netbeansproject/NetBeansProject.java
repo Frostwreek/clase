@@ -15,7 +15,12 @@ public class NetBeansProject {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("Hola");
+        if (true) {
+            System.out.println("Mierda");
+        } else {
+            System.out.println("Caca");
+        }
     }
     
 }
